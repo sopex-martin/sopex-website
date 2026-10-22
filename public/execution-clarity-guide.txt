@@ -1,0 +1,39 @@
+SOPEX ADVISORY
+Execution clarity — conversation guide
+
+A worksheet for an initial leadership discussion.
+
+1. WHERE DO YOU FEEL FRICTION?
+Describe a recent example of work taking more effort than expected.
+Which teams, tools, and decisions were involved?
+
+Notes:
+
+2. WHAT HAPPENS IN PRACTICE?
+Compare the intended process with what actually happened.
+Where did someone have to step in or work around the system?
+
+Notes:
+
+3. WHERE IS VALUE LEAKING?
+Consider rework, waiting time, repeated handovers, missed opportunities,
+and effort that does not improve the customer outcome.
+What existing evidence could help you understand the scale?
+
+Notes:
+
+4. WHO OWNS THE NEXT DECISION?
+Are responsibilities and decision rights understood across teams?
+Which decisions depend on a particular individual?
+
+Notes:
+
+5. WHAT WOULD A BETTER OUTCOME LOOK LIKE?
+Choose one concrete improvement you would like to see.
+What could you observe or measure to know it was working?
+What remains uncertain before choosing an intervention?
+
+Notes:
+
+Use this guide to frame a discussion. It is not a scored assessment.
+A focused diagnostic can help validate assumptions and agree priorities.
